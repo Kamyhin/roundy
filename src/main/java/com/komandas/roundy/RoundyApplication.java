@@ -9,5 +9,4 @@ public class RoundyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RoundyApplication.class, args);
 	}
-
 }
